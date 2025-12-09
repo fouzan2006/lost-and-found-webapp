@@ -1,4 +1,4 @@
-# Campus Lost & Found Web Application
+# Campus Lost & Found Java Web Application
 
 A centralized, secure, and user-friendly web application designed to streamline the lost and found process on a college campus. Built using Java Servlets, JSP, and MySQL.
 
